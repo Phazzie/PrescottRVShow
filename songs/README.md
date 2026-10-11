@@ -76,21 +76,21 @@ We been backin' in since lunchtime and we ain't parked it yet
 
 [Chorus - upbeat gospel revival, full choir, Hammond organ, tambourine]
 Can I get a DJ? (DJ!)
-Can I get a DJ? (DJ!)
+Ask for DJ! (DJ!)
 He'll find the one that fits you (fits you!)
 And take the old one off your hands
 Lay your burden on the lot (on the lot!)
-Prescott Valley, on the 69, lay your burden on the lot
+Here till Sunday, Highway 69, lay your burden on the lot
 
 [Verse 3 - slow Delta blues, slide guitar]
 Wind came off the mountain, took my awning like a kite
 Wind came off the mountain, took my awning like a kite
-Last I seen it over Chino Valley, headin' north into the night
+Last seen over Chino, headin' north into the night
 
 [Verse 4 - slow Delta blues]
 Fridge went out on Tuesday, all the ice cream turned to soup
 Fridge went out on Tuesday, all the ice cream turned to soup
-Dog's been eatin' good, though, he's the happiest one in the group
+Dog's the only happy one, he's lappin' up the goop
 
 [Chorus]
 
@@ -105,8 +105,8 @@ Go on down to Prescott Valley. Ask for Brother DJ.
 He'll find you the one that fits.
 
 [Verse 5 - slow Delta blues, building]
-Woke up this mornin', slid it out and it slid back in
-Woke up this mornin', slid it out and it slid back in
+Woke up this mornin', new rig, slide went out and back in
+Woke up this mornin', new rig, slide went out and back in
 Honey said, "Why didn't we go see DJ back then?"
 
 [Final Chorus - gospel revival, key change, full choir, handclaps]
@@ -114,8 +114,10 @@ Honey said, "Why didn't we go see DJ back then?"
 
 [Outro - choir, fading]
 Here till Sunday (Can I get a DJ?)
-Out on the 69 (Can I get a DJ?)
+Highway 69 (Ask for DJ!)
 ```
+
+**Gemini review (Oct 11):** took its notes on urgency in the chorus, the disc-jockey ambiguity ("Ask for DJ!"), the Chino line's length, the filler "group" rhyme, and the unclear last verse. Kept "forty-footer for a twenty-foot life" against its advice: "maybe it ain't your fault" right before it means nobody is called foolish. Rejected its line fixes ("off the coop", a brand name, "DJ bought us the RV of our dreams").
 
 ## Here Till Sunday
 
