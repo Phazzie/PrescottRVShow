@@ -58,5 +58,15 @@ Here till Sunday, Oct 18
 
 Optional last line under the card: DJ's real voice from the Richmond video, "We are here until Sunday" (Drive file 1TNuATybM1OSINA2b8DXnX2k5mY55iqtt; find it with word timestamps near the end of his pitch).
 
-## Takes
-(filled in below as the takes land in Drive)
+## The song to use (Trizzy's pick, Oct 11)
+**"Ain't No Mirage" v3, take 1**: https://suno.com/song/5c5e4f4a-4fa1-464d-8a58-a007c9deb180
+- File: `Ain't No Mirage v3.mp3` (about 2.1 MB) in Trizzy's Drive folder **RV Show DJ material**.
+- v3 lyrics, after the five-check audit:
+  - It opens on the buzzard: "Buzzard on the roof of a dead sedan".
+  - The hook is "Ain't no mirage! (It's real!) / It's DJ the RV Guy! (DJ the RV Guy!)", sung twice.
+  - The tag is "Prescott Valley, out on 69, here till Sunday!"
+  - Full text: `songs/MIRAGE_AND_ONE_TRY.md` in the repo, and the Drive lyrics file. The Drive copy shows v2; the v3 lines differ as listed above.
+- Timing is **not measured yet**. Run the song-sync recipe on it: place the full-band stop/hit at 12 s, and check that "Ain't no mirage!" lands at 18 s ±1 s.
+- Trizzy may want a later version that is less banjo-busy and more pop-country, so it's catchier. That's "for now" — this take is the one to cut to.
+
+Other takes, if needed: v3 take 2 https://suno.com/song/e2992028-a886-411e-b427-45020f62d40b · v2 https://suno.com/song/81d1268d-c784-44ad-bea2-24a62666eceb · v1 https://suno.com/song/733dcc0b-7f08-456d-99ca-48268edd9130
