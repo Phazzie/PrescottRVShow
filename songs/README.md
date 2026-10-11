@@ -43,6 +43,66 @@ He'll pretend he believes you anyway
 (He'll pretend he believes you anyway)
 ```
 
+## Can I Get a DJ
+
+**Style:** slow Delta blues verses with slide guitar and harmonica, switching to upbeat gospel revival choruses with Hammond organ, tambourine, handclaps, full choir call-and-response, gravelly male blues lead, comedic
+
+**Video:** verses are sad and black-and-white, one RV disaster each (stuck slide-out, spouse with airport wands, awning flying away like a kite, melted ice cream and a happy dog). Every chorus cuts to full color: a revival tent on the lot, a choir in robes between the RVs, and DJ at the front with the answer. Check before using: the show takes trade-ins ("he'll take it off your hands").
+
+```
+[Intro - lonesome harmonica, slow blues]
+
+[Verse 1 - slow Delta blues, slide guitar]
+Woke up this mornin', slide-out stuck open wide
+Woke up this mornin', slide-out stuck open wide
+Checkout time's eleven and my kitchen's hangin' off the side
+
+[Verse 2 - slow Delta blues]
+Honey's out there wavin' like she's landin' a jet
+Honey's out there wavin' like she's landin' a jet
+We been backin' in since lunchtime and we ain't parked it yet
+
+[Chorus - upbeat gospel revival, full choir, Hammond organ, tambourine]
+Can I get a DJ? (DJ!)
+Can I get a DJ? (DJ!)
+He ain't no mechanic, but he'll take it off your hands
+Lay your burden on the lot (on the lot!)
+Down in Prescott Valley, lay your burden on the lot
+
+[Verse 3 - slow Delta blues, slide guitar]
+Wind came off the mountain, took my awning like a kite
+Wind came off the mountain, took my awning like a kite
+Last I seen it over Chino Valley, headin' north into the night
+
+[Verse 4 - slow Delta blues]
+Fridge went out on Tuesday, all the ice cream turned to soup
+Fridge went out on Tuesday, all the ice cream turned to soup
+Dog's been eatin' good, though, he's the happiest one in the group
+
+[Chorus]
+
+[Bridge - spoken, calm male voice over soft organ]
+I can't fix your slide-out.
+I can't get your awning back from Chino Valley.
+I can't save the ice cream.
+But I got a whole field of RVs ain't nothin' broke on yet.
+[Choir]
+Ain't broke yet! (Ain't broke yet!)
+
+[Verse 5 - slow Delta blues]
+Woke up this mornin', nothin' broke at all
+Woke up this mornin', nothin' broke at all
+Give it till next summer, I'll be givin' DJ a call
+
+[Final Chorus - gospel revival, key change, full choir, handclaps]
+Can I get a DJ? (DJ!)
+Can I get a DJ? (DJ!)
+He ain't no mechanic, but he'll take it off your hands
+Lay your burden on the lot (on the lot!)
+Down in Prescott Valley, lay your burden on the lot
+(Lay it on the lot!)
+```
+
 ## Here Till Sunday
 
 **Style:** Memphis trap with carnival calliope organ, cowbell, heavy 808 bass, chanted gang-vocal hook, playful swagger, male rap vocals, circus waltz breakdown in the bridge
