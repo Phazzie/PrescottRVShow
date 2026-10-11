@@ -2,6 +2,14 @@
 
 Lyrics and Suno style prompts for the Prescott RV Show campaign. Generated in the Suno workspace "Prescott RV Show - DJ".
 
+## How every song gets written
+
+1. Plan first: what the song has to accomplish, and what each part (verse, chorus, bridge, outro) does toward it. For this campaign: the listener chuckles, recognizes themselves, has a reason to go in, and remembers to ask for DJ.
+2. Write the lyrics to that plan.
+3. Self-critique against the plan, line by line.
+4. Run it by Gemini for a second opinion.
+5. Only then generate in Suno.
+
 ## Just Lookin'
 
 **Style:** honky-tonk country two-step, twangy telecaster, pedal steel, upright bass, shuffle drums, warm male lead, sassy female answer vocals, barroom singalong chorus, playful
