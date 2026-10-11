@@ -22,7 +22,45 @@ Both are front-porch bluegrass, the "Black Tank" sound, and both are built so th
 
 Verse 2 and the last chorus are for a longer cut (DJ keeps the sedan).
 
-### v2 lyrics (current)
+### v3 lyrics (current, after the five-check audit)
+```
+[Intro - lone fiddle drone, slow, dry, no drums]
+Buzzard on the roof of a dead sedan
+
+[Build - banjo roll creeps in, getting faster]
+No bars on the phone, and the water's all gone
+Way off 69, and that bird ain't movin' on
+
+[Break - full band stop, one hard hit]
+
+[Hushed, half-time]
+Is that a row of RVs wavin' in the heat?
+
+[Chorus - full band explodes, fast stomp, gang vocals]
+Ain't no mirage! (It's real!)
+It's DJ the RV Guy! (DJ the RV Guy!)
+Ain't no mirage! (It's real!)
+It's DJ the RV Guy!
+
+[Tag - then one final hit]
+Prescott Valley, out on 69, here till Sunday!
+
+[Verse 2 - fast]
+Left the old sedan and the buzzard in the dust
+DJ the RV Guy said, "Leave 'em both with us"
+Rollin' into the sunset in a house with wheels
+Kids in the back askin', "Daddy, is it real?"
+
+[Chorus]
+
+[Outro - gang vocals, final stomp]
+Prescott Valley, out on 69, here till Sunday!
+Ain't no mirage!
+```
+
+**Five-check audit (fresh reviewer: AI failure modes, WTF test, rhyme check, does it do the job, is it good art):** v2 scored 6/10. Taken: buzzard moved into the first 3 s (the only joke arrived at ~10 s); "(Ain't no lie!)" → "(It's real!)" (stock phrase chosen for the rhyme; "it's real" lands on the video's exact beat and sets up "Daddy, is it real?"); chorus cut from ~44 to ~30 syllables so a gang can shout it in 7 s, dropping "keys to ride" (rhyme-forced, ungrammatical, and the picture shows the keys); verse 2 no longer gives the wreck to both the buzzard and DJ.
+
+### v2 lyrics
 ```
 [Intro - lone fiddle drone, slow, dry, no drums]
 Dead car, dirt road, way off 69
@@ -79,12 +117,12 @@ They're backin' it in again!
 [Verse 1 - fast]
 Forty feet of fifth wheel, thirty feet of drive
 Whole street's out in lawn chairs like the Fourth of July
-Mailbox is nervous and the juniper's thin
-Pass the popcorn, neighbor, let the show begin
+Mailbox is nervous and the juniper's skinned
+Pass the popcorn, Earl, they're pullin' up again
 
 [Chorus - full band, gang vocals]
 One try! (One try!) DJ the RV Guy!
-Fits the drive, backs right in, and the neighbors sigh
+Shorter rig, backs right in, and the neighbors sigh
 One try! (One try!) DJ the RV Guy!
 
 [Tag]
@@ -92,9 +130,9 @@ Prescott Valley, out on 69, here till Sunday!
 
 [Verse 2 - fast]
 Twenty-six feet of trailer, thirty feet of drive
-Backed it in one pass and the new mailbox survived
+Backed it in one pass, and the mailbox survived
 Neighbors folded up the lawn chairs, took the popcorn back inside
-Now the RV show's in town, out on 69
+Got it from DJ the RV Guy, out on 69
 
 [Chorus]
 
@@ -105,3 +143,4 @@ One try!
 
 ### Review log
 - **Fresh reviewer:** hook passes ("try/Guy" rhymes, chantable). The 30 s cut had no resolution, since it only lived in verse 2 → chorus line 2 now carries it and rhymes with the hook (taken, reworded). "Mailbox is a goner" made the couple the joke → "Mailbox is nervous" (taken). Verse 1 repeated the intro line → "Pass the popcorn, neighbor, let the show begin" (taken). "Only RV show in town" is an unsupported superlative → dropped (taken). "Here till Sunday" vs "through the 18th": kept "here till Sunday" because it's DJ's own sign-off; the end card shows the date.
+- **Five-check audit (fresh reviewer):** scored 7/10, the stronger of the two songs. Taken: "the juniper's thin" failed the WTF test, so it's now "the juniper's skinned" (scraped on earlier tries, which backs up "again"). "Pass the popcorn, neighbor, let the show begin" was two stock phrases, so it's now "Pass the popcorn, Earl, they're pullin' up again". "Fits the drive" never said the new rig is shorter, so it's now "Shorter rig, backs right in" (a "twenty-six feet" spec was rejected, since it's unconfirmed on the lot). In verse 2, "new mailbox" put the joke back on the couple, so "new" is dropped. "Now the RV show's in town" was an ad bolted on, so it's now "Got it from DJ the RV Guy, out on 69".
